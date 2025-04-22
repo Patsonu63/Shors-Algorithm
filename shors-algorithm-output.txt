@@ -1,0 +1,7 @@
+Factoring N = 15 with a = 7
+Quantum circuit created with 12 qubits
+Circuit depth after transpilation: 267
+Running with 2048 shots...
+Estimated period r = 4
+Factors of 15 = 3 × 5
+Measurement results: {'00000000': 152, '00010000': 143, '00100000': 125, '00110000': 139, '01000000': 136, '01010000': 126, '01100000': 146, '01110000': 129, '10000000': 117, '10010000': 131, '10100000': 126, '10110000': 133, '11000000': 128, '11010000': 114, '11100000': 120, '11110000': 133}
